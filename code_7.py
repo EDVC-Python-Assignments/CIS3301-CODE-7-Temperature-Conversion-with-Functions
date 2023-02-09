@@ -5,14 +5,13 @@ warm_weather_clothing = ["sun glasses","t-shirt","hat"]
 hot_weather_clothing = ["sun screen","water","shorts"]
 
 def get_temperature_in_celsius(temp_in_f):
-   pass
+   pass #Remove this line and insert your code HERE
 
 def get_temperature_in_kelvin(temp_in_c):
-   pass
+   pass #Remove this line and insert your code HERE
 
 def get_clothing_recommendation(temp_in_c):
-   pass
-   
+   pass #Remove this line and insert your code HERE
 
 if __name__ == "__main__":
-   pass
+   pass #Remove this line and insert your code for the user interface HERE
