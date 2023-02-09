@@ -1,4 +1,3 @@
-
 cold_weather_clothing = ["heavy jacket","scarf","hat"]
 cool_weather_clothing = ["jacket","sweater","gloves"]
 warm_weather_clothing = ["sun glasses","t-shirt","hat"]
