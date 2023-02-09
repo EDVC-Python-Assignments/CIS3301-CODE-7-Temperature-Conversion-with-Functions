@@ -19,7 +19,7 @@ You are going to code this program in four different functions. The functions ar
     - Temperature below or equal to 10C - Return a **random** item from **cold_weather_clothing**
     - 10C < Temperature <= 15C  - Return a **random** item from **cool_weather_clothing**
     - 15C < Temperature <= 25C  - Return a **random** item from **warm_weather_clothing**
-    - 26C < Temperature <= 35C  - Return a **random** item from **cool_weather_clothing**
+    - 26C < Temperature <= 35C  - Return a **random** item from **hot_weather_clothing**
 ## User Prompts
 
 In this program you can code any use prompts. However all the outputs (print outs) to the user must be inside the following if statement:
