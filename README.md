@@ -22,8 +22,8 @@ You are going to code this program in four different functions. The functions ar
     - 26C < Temperature <= 35C  - Return a **random** item from **hot_weather_clothing**
 ## User Prompts
 
-In this program you can code any use prompts. However all the outputs (print outs) to the user must be inside the following if statement:
+In this program you can code any use prompts. However all the outputs to the user must be inside the following if statement:
 
 `if __name__ == "__main__":`
 
-Make sure you code your assignment in the file "code_1.py" and that you implement your code inside the respective functions.
+Make sure you code your assignment in the file "code_7.py" and that you implement your code inside the respective functions.
